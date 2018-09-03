@@ -1,0 +1,10 @@
+﻿.idea
+/Servers
+/.settings
+/eclipse
+/target/
+.classpath
+.project
+*.iml
+LOG_HOME_IS_UNDEFINED
+.metadata
